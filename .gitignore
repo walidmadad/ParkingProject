@@ -1,0 +1,5 @@
+src/Vue/__pycache__/
+src/Controller/__pycache__/
+src/Model/__pycache__/
+test/__pycache__
+.idea/
